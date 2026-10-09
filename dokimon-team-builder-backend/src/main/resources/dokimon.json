@@ -1,0 +1,1089 @@
+[
+  {
+    "number": 1,
+    "name": "Burnsby",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 2,
+    "name": "Felt",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 3,
+    "name": "Braveheart",
+    "types": [
+      "Fire",
+      "Fight"
+    ]
+  },
+  {
+    "number": 4,
+    "name": "Bulbapod",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "number": 5,
+    "name": "Scytherin",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "number": 6,
+    "name": "Slytharot",
+    "types": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  {
+    "number": 7,
+    "name": "Squibbly",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "number": 8,
+    "name": "Loctorus",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "number": 9,
+    "name": "Krakanchor",
+    "types": [
+      "Water",
+      "Electric"
+    ]
+  },
+  {
+    "number": 10,
+    "name": "Furreal",
+    "types": [
+      "Light"
+    ]
+  },
+  {
+    "number": 11,
+    "name": "Jolleek",
+    "types": [
+      "Light"
+    ]
+  },
+  {
+    "number": 12,
+    "name": "Leeksword",
+    "types": [
+      "Light",
+      "Dark"
+    ]
+  },
+  {
+    "number": 13,
+    "name": "Whispurr",
+    "types": [
+      "Fairy"
+    ]
+  },
+  {
+    "number": 14,
+    "name": "Excalifurr",
+    "types": [
+      "Fairy"
+    ]
+  },
+  {
+    "number": 15,
+    "name": "Carrotti",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "number": 16,
+    "name": "Kakaratt",
+    "types": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "number": 17,
+    "name": "Quackfil",
+    "types": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "number": 18,
+    "name": "Quackfear",
+    "types": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  {
+    "number": 19,
+    "name": "Casper",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "number": 20,
+    "name": "Deathscye",
+    "types": [
+      "Dark",
+      "Ghost"
+    ]
+  },
+  {
+    "number": 21,
+    "name": "Nimbis",
+    "types": [
+      "Light"
+    ]
+  },
+  {
+    "number": 22,
+    "name": "Lloudious",
+    "types": [
+      "Light"
+    ]
+  },
+  {
+    "number": 23,
+    "name": "Pheonix",
+    "types": [
+      "Flying",
+      "Fire"
+    ]
+  },
+  {
+    "number": 24,
+    "name": "Lucifeather",
+    "types": [
+      "Flying",
+      "Fire"
+    ]
+  },
+  {
+    "number": 25,
+    "name": "Flounder",
+    "types": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "number": 26,
+    "name": "Mudslip",
+    "types": [
+      "Water",
+      "Flying"
+    ]
+  },
+  {
+    "number": 27,
+    "name": "Bundust",
+    "types": [
+      "Fairy"
+    ]
+  },
+  {
+    "number": 28,
+    "name": "Jespurr",
+    "types": [
+      "Light"
+    ]
+  },
+  {
+    "number": 29,
+    "name": "Juskitten",
+    "types": [
+      "Light",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 30,
+    "name": "Harleqitty",
+    "types": [
+      "Light",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 31,
+    "name": "Moisen",
+    "types": [
+      "Poison",
+      "Flying"
+    ]
+  },
+  {
+    "number": 32,
+    "name": "Birzhaven",
+    "types": [
+      "Poison",
+      "Flying"
+    ]
+  },
+  {
+    "number": 33,
+    "name": "Brixlet",
+    "types": [
+      "Fairy",
+      "Electric"
+    ]
+  },
+  {
+    "number": 34,
+    "name": "Spooklet",
+    "types": [
+      "Ghost",
+      "Electric"
+    ]
+  },
+  {
+    "number": 35,
+    "name": "Wattlet",
+    "types": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  {
+    "number": 36,
+    "name": "Sparkstride",
+    "types": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  {
+    "number": 37,
+    "name": "Tignis",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 38,
+    "name": "Tigris",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 39,
+    "name": "Tignispyre",
+    "types": [
+      "Fire",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 40,
+    "name": "Haracker",
+    "types": [
+      "Fight"
+    ]
+  },
+  {
+    "number": 41,
+    "name": "Hareate",
+    "types": [
+      "Fight"
+    ]
+  },
+  {
+    "number": 42,
+    "name": "Soul",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "number": 43,
+    "name": "Jistery",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "number": 44,
+    "name": "Loomleak",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "number": 45,
+    "name": "Marillo",
+    "types": [
+      "Water",
+      "Fight"
+    ]
+  },
+  {
+    "number": 46,
+    "name": "Luna",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "number": 47,
+    "name": "Eclipse",
+    "types": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "number": 48,
+    "name": "Yomeshi",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "number": 49,
+    "name": "Shinigam",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "number": 50,
+    "name": "Emboa",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 51,
+    "name": "Rattler",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 52,
+    "name": "Coalbra",
+    "types": [
+      "Fire",
+      "Dragon"
+    ]
+  },
+  {
+    "number": 53,
+    "name": "Patches",
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "number": 54,
+    "name": "Woollec",
+    "types": [
+      "Electric",
+      "Poison"
+    ]
+  },
+  {
+    "number": 55,
+    "name": "Kitsu",
+    "types": [
+      "Light"
+    ]
+  },
+  {
+    "number": 56,
+    "name": "Emberox",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 57,
+    "name": "Glaceia",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "number": 58,
+    "name": "Flurox",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "number": 59,
+    "name": "Boltrex",
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "number": 60,
+    "name": "Yorox",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "number": 61,
+    "name": "Lunapet",
+    "types": [
+      "Ghost",
+      "Poison"
+    ]
+  },
+  {
+    "number": 62,
+    "name": "Umbralancer",
+    "types": [
+      "Ghost",
+      "Light"
+    ]
+  },
+  {
+    "number": 63,
+    "name": "Corsac",
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "number": 64,
+    "name": "Kugwyrm",
+    "types": [
+      "Dragon",
+      "Light"
+    ]
+  },
+  {
+    "number": 65,
+    "name": "Kilnwyrm",
+    "types": [
+      "Dragon",
+      "Dark"
+    ]
+  },
+  {
+    "number": 66,
+    "name": "Miso",
+    "types": [
+      "Dragon",
+      "Light"
+    ]
+  },
+  {
+    "number": 67,
+    "name": "Scorlo",
+    "types": [
+      "Poison"
+    ]
+  },
+  {
+    "number": 68,
+    "name": "Winzzle",
+    "types": [
+      "Poison"
+    ]
+  },
+  {
+    "number": 69,
+    "name": "Skrappler",
+    "types": [
+      "Poison"
+    ]
+  },
+  {
+    "number": 70,
+    "name": "Atlas",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "number": 71,
+    "name": "Lantis",
+    "types": [
+      "Dragon"
+    ]
+  },
+  {
+    "number": 72,
+    "name": "Hunch",
+    "types": [
+      "Dragon",
+      "Poison"
+    ]
+  },
+  {
+    "number": 73,
+    "name": "Voltistrike",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "number": 74,
+    "name": "Toxorb",
+    "types": [
+      "Ghost"
+    ]
+  },
+  {
+    "number": 75,
+    "name": "Ariel",
+    "types": [
+      "Light",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 76,
+    "name": "Hana",
+    "types": [
+      "Light",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 77,
+    "name": "Toppa",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "number": 78,
+    "name": "Gumba",
+    "types": [
+      "Water",
+      "Poison"
+    ]
+  },
+  {
+    "number": 79,
+    "name": "Toxihop",
+    "types": [
+      "Water",
+      "Poison"
+    ]
+  },
+  {
+    "number": 80,
+    "name": "Bloomtad",
+    "types": [
+      "Grass",
+      "Water"
+    ]
+  },
+  {
+    "number": 81,
+    "name": "Mimi-to",
+    "types": [
+      "Grass",
+      "Water"
+    ]
+  },
+  {
+    "number": 82,
+    "name": "Dustle",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "number": 83,
+    "name": "Boxbi",
+    "types": [
+      "Dark",
+      "Fight"
+    ]
+  },
+  {
+    "number": 84,
+    "name": "Plasma",
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "number": 85,
+    "name": "Luminite",
+    "types": [
+      "Electric",
+      "Fire"
+    ]
+  },
+  {
+    "number": 86,
+    "name": "Zappy",
+    "types": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  {
+    "number": 87,
+    "name": "Misma",
+    "types": [
+      "Electric"
+    ]
+  },
+  {
+    "number": 88,
+    "name": "Umbral",
+    "types": [
+      "Electric",
+      "Ghost"
+    ]
+  },
+  {
+    "number": 89,
+    "name": "Punchbox",
+    "types": [
+      "Ghost",
+      "Fight"
+    ]
+  },
+  {
+    "number": 90,
+    "name": "Mushlo",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "number": 91,
+    "name": "Shroolia",
+    "types": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  {
+    "number": 92,
+    "name": "Fungalina",
+    "types": [
+      "Fairy",
+      "Poison"
+    ]
+  },
+  {
+    "number": 93,
+    "name": "Minx",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "number": 94,
+    "name": "Okami",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "number": 95,
+    "name": "Kamiokami",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "number": 96,
+    "name": "Hemling",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 97,
+    "name": "Knyfagon",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 98,
+    "name": "Sylfi",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "number": 99,
+    "name": "Sylvaguard",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "number": 100,
+    "name": "Frostby",
+    "types": [
+      "Ice"
+    ]
+  },
+  {
+    "number": 101,
+    "name": "Polar",
+    "types": [
+      "Ice",
+      "Fight"
+    ]
+  },
+  {
+    "number": 102,
+    "name": "Snowla",
+    "types": [
+      "Flying",
+      "Ice"
+    ]
+  },
+  {
+    "number": 103,
+    "name": "Frostla",
+    "types": [
+      "Flying",
+      "Ice"
+    ]
+  },
+  {
+    "number": 104,
+    "name": "Aoimon",
+    "types": [
+      "Ice",
+      "Dark"
+    ]
+  },
+  {
+    "number": 105,
+    "name": "Palsamon",
+    "types": [
+      "Ice",
+      "Dark"
+    ]
+  },
+  {
+    "number": 106,
+    "name": "Snek",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "number": 107,
+    "name": "Frossla",
+    "types": [
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "number": 108,
+    "name": "Hellfire",
+    "types": [
+      "Dragon",
+      "Ice"
+    ]
+  },
+  {
+    "number": 109,
+    "name": "Woodsly",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "number": 110,
+    "name": "Creselidite",
+    "types": [
+      "Grass",
+      "Fight"
+    ]
+  },
+  {
+    "number": 111,
+    "name": "T-kob",
+    "types": [
+      "Fire",
+      "Poison"
+    ]
+  },
+  {
+    "number": 112,
+    "name": "T-kobom",
+    "types": [
+      "Fire",
+      "Electric"
+    ]
+  },
+  {
+    "number": 113,
+    "name": "X-koboma",
+    "types": [
+      "Fire",
+      "Ghost"
+    ]
+  },
+  {
+    "number": 114,
+    "name": "Dartly",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "number": 115,
+    "name": "Dartarget",
+    "types": [
+      "Dark"
+    ]
+  },
+  {
+    "number": 116,
+    "name": "Gloombud",
+    "types": [
+      "Dark",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 117,
+    "name": "Noxy",
+    "types": [
+      "Dark",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 118,
+    "name": "Duskalina",
+    "types": [
+      "Dark",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 119,
+    "name": "Hexabelle",
+    "types": [
+      "Ghost",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 120,
+    "name": "Ohm",
+    "types": [
+      "Electric",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 121,
+    "name": "Embud",
+    "types": [
+      "Fire",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 122,
+    "name": "Embellia",
+    "types": [
+      "Fire",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 123,
+    "name": "Kthuune",
+    "types": [
+      "Fire",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 124,
+    "name": "Leea",
+    "types": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 125,
+    "name": "Linna",
+    "types": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 126,
+    "name": "Sindela",
+    "types": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 127,
+    "name": "Blu",
+    "types": [
+      "Water",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 128,
+    "name": "Milli",
+    "types": [
+      "Water",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 129,
+    "name": "Millian",
+    "types": [
+      "Water",
+      "Fairy"
+    ]
+  },
+  {
+    "number": 130,
+    "name": "Mag",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 131,
+    "name": "Magma",
+    "types": [
+      "Dragon",
+      "Fire"
+    ]
+  },
+  {
+    "number": 132,
+    "name": "Rex",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ]
+  },
+  {
+    "number": 133,
+    "name": "Draeking",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ]
+  },
+  {
+    "number": 134,
+    "name": "Dawn",
+    "types": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  {
+    "number": 135,
+    "name": "Midnight",
+    "types": [
+      "Dragon",
+      "Dark"
+    ]
+  },
+  {
+    "number": 136,
+    "name": "Lema",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 137,
+    "name": "Riley",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "number": 138,
+    "name": "Yan-yaa lii",
+    "types": [
+      "Fire",
+      "Fight"
+    ]
+  },
+  {
+    "number": 139,
+    "name": "Spud",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "number": 140,
+    "name": "Photo",
+    "types": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "number": 141,
+    "name": "Spring-lee",
+    "types": [
+      "Grass",
+      "Dark"
+    ]
+  },
+  {
+    "number": 142,
+    "name": "Toola",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "number": 143,
+    "name": "Sluggor",
+    "types": [
+      "Water",
+      "Poison"
+    ]
+  },
+  {
+    "number": 144,
+    "name": "Drifty",
+    "types": [
+      "Water",
+      "Poison"
+    ]
+  }
+]
