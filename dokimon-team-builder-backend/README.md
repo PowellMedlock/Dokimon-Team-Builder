@@ -1,17 +1,22 @@
 # Dokimon Quest Team Builder Backend
 
-Spring Boot 3.5 + Spring Web + Lombok + Java 21.
+Spring Boot 4.0 + Spring Web + Lombok + Java 21.
 
 ## Endpoints
 
 `GET /api/dokimon` — returns all 144 Dokimon and their types.
 
-`POST /api/team-builder/analyze` — accepts exactly six names and returns the six selected Dokimon plus one row for each of the 13 types.
+`POST /api/team-builder/analyze` — accepts between one and six names and returns the selected Dokimon plus one row for each of the 13 types.
 
 Request:
 ```json
 {"dokimon":["Burnsby","Bulbapod","Squibbly","Furreal","Casper","Haracker"]}
 ```
+Or 
+```json
+{"dokimon":["Burnsby"]}
+```
+
 
 Each matchup has:
 - `multiplier`: 0, 0.25, 0.5, 1, 2, or 4
@@ -21,9 +26,11 @@ Each type row also has:
 - `weakCount`: number of team members with multiplier > 1
 - `resistantOrImmuneCount`: number with multiplier < 1
 
-The six team positions are preserved, making the response directly usable as frontend columns.
+The team positions are preserved, making the response directly usable as frontend columns.
 
 ## Run
+Running:
 ```bash
-mvn spring-boot:run
+npm run dev
 ```
+at the terminal will run this part of the app along with the frontend.
